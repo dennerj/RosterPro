@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PROCESSFROM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\</Value>
+    </Setting>
+    <Setting Name="PROCESSTO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\opidcsps13\sites\lms\ilt_roster_admin\roster_data_raw\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
