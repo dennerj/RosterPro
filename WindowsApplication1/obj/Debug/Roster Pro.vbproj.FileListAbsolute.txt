@@ -8,3 +8,14 @@ c:\users\jdenner\documents\visual studio 2013\Projects\WindowsApplication1\Windo
 c:\users\jdenner\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\RosterPro.exe
 c:\users\jdenner\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\RosterPro.xml
 c:\users\jdenner\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\RosterPro.pdb
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\bin\Debug\RosterPro.exe.config
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\RosterPro.exe
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\RosterPro.xml
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\RosterPro.pdb
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\bin\Debug\RosterPro.exe
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\bin\Debug\RosterPro.pdb
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\bin\Debug\RosterPro.xml
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\Roster Pro.vbprojResolveAssemblyReference.cache
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\RosterPro.RosterPro.resources
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\RosterPro.Resources.resources
+C:\01 JDD\git\GitHubVisualStudio\RosterPro\WindowsApplication1\obj\Debug\Roster Pro.vbproj.GenerateResource.Cache
